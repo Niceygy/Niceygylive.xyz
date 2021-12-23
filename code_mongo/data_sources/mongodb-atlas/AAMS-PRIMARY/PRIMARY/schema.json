@@ -1,0 +1,10 @@
+{
+    "properties": {
+        "testpartionkey": {
+            "bsonType": "string"
+        }
+    },
+    "required": [
+        "testpartionkey"
+    ]
+}

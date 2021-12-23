@@ -1,0 +1,30 @@
+{
+    "collection": "PRIMARY",
+    "database": "AAMS-PRIMARY",
+    "roles": [
+        {
+            "name": "owner",
+            "apply_when": {
+                "ID": "%%user.id"
+            },
+            "read": true,
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        },
+        {
+            "name": "shared",
+            "apply_when": {
+                "SHARE_LIST": "%%user.id"
+            },
+            "read": true,
+            "write": false,
+            "insert": false,
+            "delete": false,
+            "search": true,
+            "additional_fields": {}
+        }
+    ]
+}
