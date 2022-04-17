@@ -1,8 +1,0 @@
-{
-    "app_id": "disc-connect-hesrd",
-    "config_version": 20210101,
-    "name": "DISC-CONNECT",
-    "location": "IE",
-    "deployment_model": "GLOBAL",
-    "environment": "production"
-}
