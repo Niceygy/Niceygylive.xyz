@@ -1,5 +1,4 @@
 # Niceygylive.xyz
-The code for niceygy.co.uk (https://www.niceygylive.xyz)
 
-This is the repo of Niceygy's website (attached above). Please feel free to add to the Development arm! 
-😊
+[![pages-build-deployment](https://github.com/NiceygyLive/Niceygylive.xyz/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/NiceygyLive/Niceygylive.xyz/actions/workflows/pages/pages-build-deployment)
+
