@@ -21,3 +21,9 @@ body:before {
   white-space: pre;
   font-family: monospace;
   content: "Errno::ENOENT: No such file or directory @ rb_sysopen - scss/main.scss"; }
+
+.footer_area section_gap_top {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  align-items: center;
+}
